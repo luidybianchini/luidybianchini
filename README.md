@@ -28,8 +28,13 @@ Sou estudante de engenharia de software da universidade Unicesumar e estou no me
 
 ---
 
-
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=bear&count_private=true"/>
 <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/luidybianchini/luidybianchini/output/github-snake.svg"/>
+</p>
