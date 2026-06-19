@@ -10,8 +10,10 @@
 Sou estudante de engenharia de software da universidade Unicesumar e estou no meu primeiro ano.
 
 - Estudante da Unicesumar
-- Estou iniciando a programção agora e quero me especializar em desenvimento de sistemas.
-- Pretendo também a me especializar em IA.
+- Estou iniciando a programção agora e quero me especializar em:
+- Desenvolvimento de Sistemas,
+- Inteligencia Artificial,
+- Segurança de Dados
 
 ---
 
