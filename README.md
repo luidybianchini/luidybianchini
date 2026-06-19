@@ -13,7 +13,7 @@ Sou estudante de engenharia de software da universidade Unicesumar e estou no me
 - Estou iniciando a programção agora e quero me especializar em:
 - Desenvolvimento de Sistemas,
 - Inteligencia Artificial,
-- Segurança de Dados
+- Segurança de Dados.
 
 ---
 
